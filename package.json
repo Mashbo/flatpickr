@@ -54,10 +54,6 @@
   "module": "dist/esm/index.js",
   "style": "dist/flatpickr.css",
   "types": "./dist/typings.d.ts",
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/chmln/flatpickr.git"
-  },
   "author": "Gregory <gregory.mkv@gmail.com>",
   "license": "MIT",
   "bugs": {
